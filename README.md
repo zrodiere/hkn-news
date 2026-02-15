@@ -5,7 +5,7 @@
 Make sure you have a [conda](https://www.anaconda.com/docs/getting-started/miniconda/main) distribution installed, and create your environment with:
 
 ```console
-conda create env -f hkn-news.yml
+conda env create -f hkn-news.yml
 ```
 
 And then activate it:
