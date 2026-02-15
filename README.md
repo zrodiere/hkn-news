@@ -16,7 +16,7 @@ conda activate hkn-news
 
 ## Writing the Newsletter
 
-Edit `content.md`. Sections are seperated by titles (# ). Look at the current example for inspiration. Adding (Sidebar) in the title puts it in the sidebar.
+Edit `content.md`. Sections are seperated by titles (# ). Look at the current example for inspiration. Adding (Sidebar) in the title puts that section in the sidebar.
 
 ## Generating the HTML
 
@@ -26,5 +26,9 @@ Simply execute:
 (hkn-news) z@latitude:~/hkn-news$ python newsletter.py content.md 
 Newsletter generated successfully → news.html
 ```
+
+## Sending HTML in Outlook
+
+Here is a tutorial you might find useful: [https://www.youtube.com/watch?v=fUm8UC8ckhM](https://www.youtube.com/watch?v=fUm8UC8ckhM).
 
 And enjoy!
