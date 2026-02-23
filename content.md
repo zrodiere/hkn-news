@@ -109,12 +109,12 @@ Lead chapter initiatives and earn your MIGS points:
 * **Lab Supplies:** [Sign Up](https://example.com/)
 * **Outreach:** [Sign Up](https://example.com/)
 
-# T-Shirt Competition (Sidebar)
+# Wet T-Shirt Contest (Sidebar)
 Date: Due February 20
 Category: Competition
 MIGS: 3
 
-Design the next HKN shirt! The winning design receives a $50 prize. All entries get 3 MIGS points and apparel discounts. Find full guidelines [here](https://example.com/). For questions, contact [Robert](https://example.com/).
+Let a sexy fireman wet your t-shirt (Zach).
 
 # Feedback
 I’m Zach, your Corresponding Secretary. If you have news for the next edition or feedback on how to improve this newsletter, don't hesitate to [email me](https://example.com/).

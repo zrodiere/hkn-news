@@ -1,5 +1,7 @@
 # Newsletter generator for the Beta Mu chapter
 
+![Newsletter Example](./news.png)
+
 ## Setup
 
 Make sure you have a [conda](https://www.anaconda.com/docs/getting-started/miniconda/main) distribution installed, and create your environment with:
